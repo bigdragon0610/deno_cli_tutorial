@@ -25,6 +25,8 @@
     ```
 
 # Denoに触れてみる
+- まずこのリポジトリをクローンしてください
+  - `git clone git@github.com:bigdragon0610/deno_cli_tutorial.git`
 - `deno run hello.ts` を実行
   - Web APIがDenoに実装されている
 - `deno run fetch.ts` を実行
